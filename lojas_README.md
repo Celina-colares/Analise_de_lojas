@@ -38,13 +38,5 @@ Você pode acessar o notebook diretamente no repositório para visualizar todos 
 
 ---
 
-## 📥 Como Subir o Projeto no GitHub
-1. No Google Colab, clique em `Arquivo > Salvar uma cópia no GitHub`.
-2. Escolha o repositório onde deseja salvar.
-3. Adicione um nome de arquivo (ex: `analise_lojas.ipynb`).
-4. Escreva uma mensagem de commit descritiva.
-5. Clique em `OK`.
-
----
 
 
